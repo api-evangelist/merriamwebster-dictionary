@@ -1,0 +1,52 @@
+{
+    "name": "Merriam-Webster Dictionary",
+    "description": "<p><span>The Merriam-Webster Dictionary API gives developers access to a comprehensive resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary. Make your applications better by integrating our authoritative definitions, etymologies, audio pronunciations, synonyms and antonyms, and more. Our robust API empowers developers to enhance word games and create educational, language learning, and other word-related applications for the digital environment. We look forward to seeing all of the new, innovative products powered by Merriam-Webster's trusted references.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dev-center-logo-500x100.png",
+    "tags": [
+        "api provider",
+        "content",
+        "have api",
+        "new",
+        "thesaurus",
+        "translations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/merriamwebster-dictionary\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Merriam-Webster Dictionary",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dev-center-logo-500x100.png",
+            "humanURL": "http:\/\/dictionaryapi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/merriamwebster-dictionary-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.dictionaryapi.com\/api\/"
+        },
+        {
+            "type": "Branding",
+            "url": "http:\/\/dictionaryapi.com\/info\/branding-guidelines.htm"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dictionaryapi.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dictionaryapi.com"
+        }
+    ]
+}
