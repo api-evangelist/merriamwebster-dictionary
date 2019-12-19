@@ -1,0 +1,1 @@
+# merriamwebster-dictionary
